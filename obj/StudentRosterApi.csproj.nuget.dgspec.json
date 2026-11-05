@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\Documents\\AppsDev\\SemiFinals\\Week 5\\StudentRosterDbApi\\StudentRosterApi.csproj": {}
+    "C:\\Users\\USER\\OneDrive\\Desktop\\w0psha\\WebDev\\CC-APPSDEV22-2026-Week6\\StudentRosterApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\Documents\\AppsDev\\SemiFinals\\Week 5\\StudentRosterDbApi\\StudentRosterApi.csproj": {
+    "C:\\Users\\USER\\OneDrive\\Desktop\\w0psha\\WebDev\\CC-APPSDEV22-2026-Week6\\StudentRosterApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\AppsDev\\SemiFinals\\Week 5\\StudentRosterDbApi\\StudentRosterApi.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\w0psha\\WebDev\\CC-APPSDEV22-2026-Week6\\StudentRosterApi.csproj",
         "projectName": "StudentRosterApi",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\AppsDev\\SemiFinals\\Week 5\\StudentRosterDbApi\\StudentRosterApi.csproj",
+        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\w0psha\\WebDev\\CC-APPSDEV22-2026-Week6\\StudentRosterApi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\AppsDev\\SemiFinals\\Week 5\\StudentRosterDbApi\\obj\\",
+        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\w0psha\\WebDev\\CC-APPSDEV22-2026-Week6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.2, )"
